@@ -5,8 +5,8 @@
 ##### 🤗 微信公众号： @极客学伟
 ##### ✉️ E-mail： <jkxuewei#gmail.com>(#换成@)
 ##### 📜 微博：[@极客学伟](https://weibo.com/qxuewei) 
-##### 📜 Twitter：[@极客学伟](https://weibo.com/qxuewei) 
+##### 🦜 Twitter：[@极客学伟](https://weibo.com/qxuewei) 
 ##### 🙋🏻‍♂️ 知乎：[@极客学伟](https://www.zhihu.com/people/qxuewei/)
+##### 📝 CSDN： [极客学伟的博客](https://xuewei.blog.csdn.net/)
 ##### ✍🏻 个人博客： [极客学伟个人主页](https://qiuxuewei.com/) 
-##### 👨🏻‍🏫 CSDN： [极客学伟的博客](https://xuewei.blog.csdn.net/)
 
